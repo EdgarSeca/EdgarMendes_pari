@@ -1,0 +1,4 @@
+/home/edgar/Desktop/PARI/Aulas/Aula 12/EdgarMendes_pari/build/CMakeFiles/rebuild_cache.dir
+/home/edgar/Desktop/PARI/Aulas/Aula 12/EdgarMendes_pari/build/CMakeFiles/cpfiles.dir
+/home/edgar/Desktop/PARI/Aulas/Aula 12/EdgarMendes_pari/build/CMakeFiles/edit_cache.dir
+/home/edgar/Desktop/PARI/Aulas/Aula 12/EdgarMendes_pari/build/CMakeFiles/myf.dir
