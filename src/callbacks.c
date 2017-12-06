@@ -14,6 +14,9 @@
  * =====================================================================================
  */
  
+#include "myf.h"
+ 
+ 
 gboolean pari_UpdateImageAreas(gpointer data)
 {
         //generate an expose event (draw event) on drawingarea1

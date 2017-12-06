@@ -7,6 +7,8 @@
 #IncludeRegexTransform: 
 
 /home/edgar/Desktop/PARI/Aulas/Aula 12/EdgarMendes_pari/src/callbacks.c
+myf.h
+/home/edgar/Desktop/PARI/Aulas/Aula 12/EdgarMendes_pari/src/myf.h
 
 /home/edgar/Desktop/PARI/Aulas/Aula 12/EdgarMendes_pari/src/main.c
 myf.h

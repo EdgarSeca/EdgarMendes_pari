@@ -1,7 +1,6 @@
 #ifndef _MYF_H
 #define _MYF_H
 
-//...
 
 #include <gtk/gtk.h>
 #include <cv.h>
