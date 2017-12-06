@@ -20,7 +20,7 @@ include_directories(${OpenCV_INCLUDE_DIRS})
 include_directories(${GTK_INCLUDE_DIRS})
 link_directories(${GTK_LIBRARY_DIRS})
 
-target_link_libraries(${PROG} ${GTK_LIBRARIES} )
+target_link_libraries(${PROG} ${GTK_LIBRARIES} ${OpenCV_LIBS})
 
 #-----------------------------------------------------
 # --- add custom mtargets (and dependencies)

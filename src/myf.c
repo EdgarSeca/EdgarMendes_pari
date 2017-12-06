@@ -73,3 +73,6 @@ void pari_RefreshDrawingArea( char * widgetName, IplImage *img)
         cairo_destroy(cr);
         g_object_unref(pix);  //free the pixbuf...
 }
+
+
+
